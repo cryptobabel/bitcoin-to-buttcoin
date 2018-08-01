@@ -1,9 +1,9 @@
-bitcoin-to-buttcoin
+lightning-to-reckless
 =============
 
-Chrome extension that replaces occurrences of ‘bit’coin with ‘buttcoin’
+Chrome extension that replaces occurrences of ‘lightning’ with ‘reckless’
 
 
 
 
-Forked from the popular “cloud to butt” extension
+Forked from the “bitcoin to buttcoin” extension

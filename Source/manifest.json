@@ -1,9 +1,10 @@
 {
 	"manifest_version": 2,
-	"name": "Bitcoin To Buttcoin",
+	"name": "Lightning To Reckless",
 	"version": "1.0",
-	"description": "Replaces the text ‘bitcoin’ with ‘buttcoin’.",
-	"content_scripts": 
+	"description":
+	"Replaces the text ‘Lightning Network’ with ‘Reckless Network’.",
+	"content_scripts":
 	[
 		{
 			"matches": ["*://*/*"],
@@ -12,4 +13,3 @@
 		}
 	]
 }
-
